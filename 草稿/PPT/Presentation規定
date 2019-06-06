@@ -2,45 +2,39 @@ Presentation規定
 
 1.1 Producing presentation slides using the LaTex (30%)
 1.2 Content includes the following
-  1.2.1 Introduction
-  1.2.1.1 Introduction to your team (2.5%)
-    
-  1.2.1.2 Introduction to the problem you’re trying to solve (2.5%)
-    
-  1.2.2 Methodology
-    
-  1.2.2.1 Input of your model (0.5%)
-    
-  1.2.2.2 Output of your model (0.5%)
-    
-  1.2.2.3 Each layer of your model (0.5%)
-    
-  1.2.2.4 How you save your model? (0.5%)
-    
-  1.2.2.5 File size of your model (0.5%)
-    
-  1.2.2.6 What’s your loss functions, and why? (2%)
-    
-  1.2.2.7 What’s your optimizer and the setting of hyperparameter? (0.5%)
-    
-  
-1.1.1 Dataset
-1.1.1.1 The size of your dataset should be larger than 1K (1%)
-1.1.1.2 How you collect/build your dataset? (1%)
-1.1.1.3 How many paired training samples in your dataset? (1%)
-1.1.1.4 How many paired validating samples in your dataset? (1%)
-1.1.1.5 How many paired testing samples in your dataset? (1%)
-1.1.1 Experimental Evaluation
-1.1.1.1 Experimental environment (CPU, GPU, memory,…,etc.) (0.5%)
-1.1.1.2 How many epochs you set for training? (0.5%)
-1.1.1.3 Qualitative evaluation (2%)
-1.1.1.4 Quantitative evaluation (2%)
-1.1.2 Live demo of your work (10%) 
 
-3 Version Control System using Git (10%)
-3.1 Show your Git workflow when you using VCS (3%)
-3.2 Show your version control (3%)
-3.3 Show your using Git to cooperate with your team member (4%)
-4 Authorship (10%)
-4.1 Job scheduling of your team (5%)
-4.2 Contribution of each team member with evidence (5%) 
+  1.2.1 Introduction 要有這頁
+    1.2.1.1 Introduction to your team (2.5%) 介紹組員
+    1.2.1.2 Introduction to the problem you’re trying to solve (2.5%) 解決的問題
+  
+  1.2.2 Methodology
+    1.2.2.1 Input of your model (0.5%) 輸入影像...資料、大小
+    1.2.2.2 Output of your model (0.5%) 輸出什麼
+    1.2.2.3 Each layer of your model (0.5%) 每層設計...畫出來...配合code證明
+    1.2.2.4 How you save your model? (0.5%) (網路結構)save weight...用哪種方式存
+    1.2.2.5 File size of your model (0.5%) ...h5 file有多大
+    1.2.2.6 What’s your loss functions, and why? (2%) 說明為何用loss
+    1.2.2.7 What’s your optimizer and the setting of hyperparameter? (0.5%) optimizer、lr...怎麼設定
+      
+  1.1.1 Dataset
+    1.1.1.1 The size of your dataset should be larger than 1K (1%) train+test+val > 1K
+    1.1.1.2 How you collect/build your dataset? (1%) 怎麼收集
+    1.1.1.3 How many paired training samples in your dataset? (1%) 多少training
+    1.1.1.4 How many paired validating samples in your dataset? (1%) 多少validating
+    1.1.1.5 How many paired testing samples in your dataset? (1%) 多少testing
+    
+  1.1.1 Experimental Evaluation
+    1.1.1.1 Experimental environment (CPU, GPU, memory,…,etc.) (0.5%)
+    1.1.1.2 How many epochs you set for training? (0.5%)
+    1.1.1.3 Qualitative evaluation (2%) 質化
+    1.1.1.4 Quantitative evaluation (2%) 量化
+  
+  1.1.2 Live demo of your work (10%) 
+
+3 Version Control System using Git (10%) 報告時開github
+  3.1 Show your Git workflow when you using VCS (3%)
+  3.2 Show your version control (3%)
+  3.3 Show your using Git to cooperate with your team member (4%)
+4 Authorship (10%) 報告時開github
+  4.1 Job scheduling of your team (5%)
+  4.2 Contribution of each team member with evidence (5%) 
