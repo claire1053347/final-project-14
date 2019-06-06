@@ -1,0 +1,26 @@
+Presentation規定
+1.1 Producing presentation slides using the LaTex (30%)
+1.2 Content includes the following
+1.2.1 Introduction
+1.2.1.1 Introduction to your team (2.5%)
+1.2.1.2 Introduction to the problem you’re trying to solve (2.5%)
+1.2.2 Methodology
+1.2.2.1 Input of your model (0.5%)
+1.2.2.2 Output of your model (0.5%)
+1.2.2.3 Each layer of your model (0.5%)
+1.2.2.4 How you save your model? (0.5%)
+1.2.2.5 File size of your model (0.5%)
+1.2.2.6 What’s your loss functions, and why? (2%)
+1.2.2.7 What’s your optimizer and the setting of hyperparameter? (0.5%)
+1.1.1 Dataset
+1.1.1.1 The size of your dataset should be larger than 1K (1%)
+1.1.1.2 How you collect/build your dataset? (1%)
+1.1.1.3 How many paired training samples in your dataset? (1%)
+1.1.1.4 How many paired validating samples in your dataset? (1%)
+1.1.1.5 How many paired testing samples in your dataset? (1%)
+1.1.1 Experimental Evaluation
+1.1.1.1 Experimental environment (CPU, GPU, memory,…,etc.) (0.5%)
+1.1.1.2 How many epochs you set for training? (0.5%)
+1.1.1.3 Qualitative evaluation (2%)
+1.1.1.4 Quantitative evaluation (2%)
+1.1.2 Live demo of your work (10%) 
