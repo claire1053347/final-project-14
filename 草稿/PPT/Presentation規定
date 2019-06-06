@@ -29,12 +29,13 @@ Presentation規定
     1.1.1.3 Qualitative evaluation (2%) 質化
     1.1.1.4 Quantitative evaluation (2%) 量化
   
-  1.1.2 Live demo of your work (10%) 
+  1.1.2 Live demo of your work (10%) 要compile起來
 
 3 Version Control System using Git (10%) 報告時開github
   3.1 Show your Git workflow when you using VCS (3%)
   3.2 Show your version control (3%)
-  3.3 Show your using Git to cooperate with your team member (4%)
+  3.3 Show your using Git to cooperate with your team member (4%) 繳交紀錄
+  
 4 Authorship (10%) 報告時開github
-  4.1 Job scheduling of your team (5%)
-  4.2 Contribution of each team member with evidence (5%) 
+  4.1 Job scheduling of your team (5%) 工作安排
+  4.2 Contribution of each team member with evidence (5%) 比例
